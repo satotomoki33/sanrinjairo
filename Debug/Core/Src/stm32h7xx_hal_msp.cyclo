@@ -1,0 +1,11 @@
+stm32h7xx_hal_msp.c:69:6:HAL_MspInit	1
+stm32h7xx_hal_msp.c:92:6:HAL_FDCAN_MspInit	7
+stm32h7xx_hal_msp.c:184:6:HAL_FDCAN_MspDeInit	5
+stm32h7xx_hal_msp.c:241:6:HAL_SPI_MspInit	3
+stm32h7xx_hal_msp.c:296:6:HAL_SPI_MspDeInit	2
+stm32h7xx_hal_msp.c:326:6:HAL_TIM_Encoder_MspInit	6
+stm32h7xx_hal_msp.c:461:6:HAL_TIM_Base_MspInit	5
+stm32h7xx_hal_msp.c:528:6:HAL_TIM_Encoder_MspDeInit	6
+stm32h7xx_hal_msp.c:638:6:HAL_TIM_Base_MspDeInit	5
+stm32h7xx_hal_msp.c:712:6:HAL_UART_MspInit	10
+stm32h7xx_hal_msp.c:888:6:HAL_UART_MspDeInit	4
