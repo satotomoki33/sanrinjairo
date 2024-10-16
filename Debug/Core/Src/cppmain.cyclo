@@ -41,7 +41,7 @@ bno055.hpp:31:8:bool tutrc_harurobo_lib::BNO055::write(uint8_t, uint8_t*, size_t
 bno055.hpp:44:8:bool tutrc_harurobo_lib::BNO055::read(uint8_t, uint8_t*, size_t)	5
 bno055.hpp:60:9:float tutrc_harurobo_lib::BNO055::to_rad(int16_t)	1
 cppmain.cpp:23:5:int clamp(int, int, int)	1
-cppmain.cpp:39:27:cppmain()::<lambda()>	3
+cppmain.cpp:38:27:cppmain()::<lambda()>	3
 std_function.h:303:11:std::function<void()>::~function()	1
 cppmain.cpp:27:17:void cppmain()	1
 allocator.h:164:7:std::allocator< <template-parameter-1-1> >::allocator() [with _Tp = unsigned char]	1
